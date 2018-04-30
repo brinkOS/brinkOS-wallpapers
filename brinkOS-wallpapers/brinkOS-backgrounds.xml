@@ -5,13 +5,14 @@
 		<name>Apricity-OS (Arctic)</name>
 		<filename>/usr/share/backgrounds/gnome/snow-white.png</filename>
 		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
 	<wallpaper deleted="false">
 		<name>El Capitan</name>
 		<filename>/usr/share/backgrounds/gnome/el-capitan.png</filename>
 		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
 	</wallpaper>
 </wallpapers>
