@@ -3,7 +3,7 @@
 <wallpapers>
 	<wallpaper deleted="false">
 		<name>Apricity-OS (Arctic)</name>
-		<filename>/usr/share/backgrounds/brinkOS/snow-white.png</filename>
+		<filename>/usr/share/backgrounds/gnome/snow-white.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
