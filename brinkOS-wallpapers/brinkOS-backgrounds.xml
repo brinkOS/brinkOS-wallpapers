@@ -29,4 +29,18 @@
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
 	</wallpaper>
+		<wallpaper deleted="false">
+		<name>All The Same</name>
+		<filename>/usr/share/backgrounds/gnome/all-the-same.jpg</filename>
+		<options>zoom</options>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+	</wallpaper>
+		<wallpaper deleted="false">
+		<name>Double Mountain</name>
+		<filename>/usr/share/backgrounds/gnome/double-mountain.jpg</filename>
+		<options>zoom</options>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+	</wallpaper>
 </wallpapers>
