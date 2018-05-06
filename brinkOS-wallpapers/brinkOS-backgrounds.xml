@@ -29,16 +29,30 @@
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
 	</wallpaper>
-		<wallpaper deleted="false">
+	<wallpaper deleted="false">
 		<name>All The Same</name>
 		<filename>/usr/share/backgrounds/gnome/all-the-same.jpg</filename>
 		<options>zoom</options>
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
 	</wallpaper>
-		<wallpaper deleted="false">
+	<wallpaper deleted="false">
 		<name>Double Mountain</name>
 		<filename>/usr/share/backgrounds/gnome/double-mountain.jpg</filename>
+		<options>zoom</options>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Light Twirls</name>
+		<filename>/usr/share/backgrounds/gnome/light-twirls.jpg</filename>
+		<options>zoom</options>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Mountain Top</name>
+		<filename>/usr/share/backgrounds/gnome/mountain-top.jpg</filename>
 		<options>zoom</options>
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
