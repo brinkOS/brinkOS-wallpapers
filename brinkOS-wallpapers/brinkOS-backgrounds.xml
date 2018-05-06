@@ -57,4 +57,32 @@
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
 	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Cold</name>
+		<filename>/usr/share/backgrounds/gnome/cold.jpg</filename>
+		<options>zoom</options>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Grass</name>
+		<filename>/usr/share/backgrounds/gnome/grass.jpg</filename>
+		<options>zoom</options>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Space-X Launch</name>
+		<filename>/usr/share/backgrounds/gnome/space-x-launch.jpg</filename>
+		<options>zoom</options>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Soft Flower</name>
+		<filename>/usr/share/backgrounds/gnome/soft-flower.jpg</filename>
+		<options>zoom</options>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+	</wallpaper>
 </wallpapers>
