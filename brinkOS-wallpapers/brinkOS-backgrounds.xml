@@ -99,4 +99,11 @@
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
 	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Peak in the clouds</name>
+		<filename>/usr/share/backgrounds/gnome/peak-in-the-clouds.jpg</filename>
+		<options>zoom</options>
+        <pcolor>#ffffff</pcolor>
+        <scolor>#000000</scolor>
+	</wallpaper>
 </wallpapers>
